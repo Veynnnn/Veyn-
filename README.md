@@ -1,79 +1,65 @@
-Veyn
+# Veyn
 
-Développeur logiciel · Cybersécurité · Réseaux
+**Développeur logiciel spécialisé en Python, JavaScript et C++**
 
-Développeur passionné par la conception de logiciels et l'analyse des systèmes.
-Je travaille principalement avec Python, JavaScript et C++, avec un intérêt particulier pour la cybersécurité, la sécurité Web, les réseaux et le pentesting.
+Je m'intéresse au développement logiciel, à la cybersécurité, au Web et aux réseaux.
 
----
-
-Profil
-
-Domaine| Intérêts
-Développement| Python · JavaScript · C++
-Cybersécurité| Sécurité Web · Pentesting · Analyse
-Réseaux| Protocoles · Infrastructure · Analyse réseau
-Web| Développement · Sécurité applicative
-Automatisation| Scripting · Outils · Automatisation
+Mon objectif est de comprendre les technologies que j'utilise en profondeur et de construire des projets propres, utiles et sécurisés.
 
 ---
 
-Technologies
+## Développement
 
-Langages
+### Python
 
-"Python" "JavaScript" "C++"
+Scripting, automatisation et développement d'outils.
 
-Domaines techniques
+### JavaScript
 
-"Cybersecurity" "Web Security" "Networking" "Penetration Testing"
-"Software Development" "Automation" "Systems"
+Développement Web et applications.
 
----
+### C++
 
-Projets
-
-Je développe et documente différents projets autour du développement logiciel et de la cybersécurité.
-
-Développement
-
-Création d'applications, d'outils et de scripts destinés à résoudre des problèmes concrets ou à automatiser certaines tâches.
-
-Cybersécurité
-
-Expérimentation autour de la sécurité des applications Web, des réseaux et des systèmes, notamment au travers de labs et d'environnements de test autorisés.
-
-Réseaux
-
-Exploration des protocoles, architectures et mécanismes réseau, ainsi que de leur fonctionnement et de leur sécurité.
+Programmation bas niveau et développement logiciel.
 
 ---
 
-Approche
+## Cybersécurité
 
-«Comprendre avant de construire. Tester avant de déployer. Sécuriser avant de faire confiance.»
+Mes principaux domaines d'intérêt sont :
 
-Je privilégie une approche basée sur la compréhension technique, l'expérimentation et l'apprentissage continu.
-
----
-
-Objectifs
-
-- Approfondir mes connaissances en cybersécurité
-- Développer des logiciels plus robustes et maintenables
-- Améliorer mes compétences en réseaux et systèmes
-- Construire et documenter des projets techniques
-- Continuer à explorer les différents aspects du développement logiciel
+- Sécurité Web
+- Sécurité applicative
+- Réseaux
+- Analyse de systèmes
+- Tests d'intrusion
+- Automatisation
+- Recherche et expérimentation en environnement contrôlé
 
 ---
 
-Contact
+## Projets
 
-Email
-"veyn@tuta.io"
+Je développe des projets personnels afin de mettre en pratique mes connaissances et d'explorer de nouvelles technologies.
+
+Mes dépôts regroupent principalement des outils, scripts, expérimentations et projets orientés développement ou cybersécurité.
+
+---
+
+## Actuellement
+
+J'approfondis mes connaissances en développement logiciel, réseaux, systèmes et cybersécurité.
+
+Je cherche notamment à mieux comprendre le fonctionnement interne des technologies que j'utilise et à améliorer continuellement mes méthodes de développement.
+
+---
+
+## Contact
+
+Email : veyn@tuta.io
 
 ---
 
 <p align="center">
-  <sub>Développement · Sécurité · Réseaux</sub>
+  <strong>Construire. Comprendre. Sécuriser.</strong>
 </p>
